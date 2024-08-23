@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Cuando la instalación convencional no funciona, usar:
+
+```bash
+npx create-expo-app@latest app-name --template https://github.com/expo/expo-template-default
+```
